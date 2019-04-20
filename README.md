@@ -43,7 +43,9 @@
 15. The Man who Changed Everything: The Life of James Clerk Maxwell  By Basil Mahon</br>
                 <a href="https://github.com/manjunath5496/Periodic-Table-Books/blob/master/biog15.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br> 
                 
-                
+16. The Strangest Man: The Hidden Life of Paul Dirac, Mystic of the Atom  By Graham Farmelo</br>
+                <a href="https://github.com/manjunath5496/Periodic-Table-Books/blob/master/biog16.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br> 
+                          
                 
                 
                 
