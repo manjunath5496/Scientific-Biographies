@@ -31,6 +31,21 @@
 11. Archimedes By Thomas Little Heath</br>
                 <a href="https://github.com/manjunath5496/Periodic-Table-Books/blob/master/biog11.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>                
                 
+12. Tesla: Man out of Time By Margaret Cheney</br>
+                <a href="https://github.com/manjunath5496/Periodic-Table-Books/blob/master/biog12.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+                
+13. Einstein: His Life and Universe By Walter Isaacson</br>
+                <a href="https://github.com/manjunath5496/Periodic-Table-Books/blob/master/biog13.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>  
+                
+14. Ghost in the Wires: My Adventure as the World's Most Wanted Hacker By Kevin D. Mitnick</br>
+                <a href="https://github.com/manjunath5496/Periodic-Table-Books/blob/master/biog14.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>                 
+                
+15. The Man who Changed Everything: The Life of James Clerk Maxwell  By Basil Mahon</br>
+                <a href="https://github.com/manjunath5496/Periodic-Table-Books/blob/master/biog15.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br> 
+                
+                
+                
+                
                 
                 
                 
